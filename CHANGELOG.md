@@ -2,6 +2,19 @@
 
 All notable changes to `filament-spatie-laravel-health` will be documented in this file.
 
+## v3.1.3 - 2026-01-04
+
+### What's Changed
+
+* chore(deps): bump actions/checkout from 5 to 6 by @dependabot[bot] in https://github.com/shuvroroy/filament-spatie-laravel-health/pull/91
+* Update health.php Spanish language by @sauljavieravila in https://github.com/shuvroroy/filament-spatie-laravel-health/pull/92
+
+### New Contributors
+
+* @sauljavieravila made their first contribution in https://github.com/shuvroroy/filament-spatie-laravel-health/pull/92
+
+**Full Changelog**: https://github.com/shuvroroy/filament-spatie-laravel-health/compare/v3.1.2...v3.1.3
+
 ## v3.1.2 - 2025-10-22
 
 ### What's Changed
